@@ -13,7 +13,7 @@ weight = 1
 
 ### About
 
-I'm an engineer with 5 years of professional experience. I finished college in 2021 at IIITDM Kancheepuram, in Chennai. The city that gave me one of my early memories — seeing the beach for the first time. Small thing, but it's stuck with me since. 
+I'm an engineer with 5 years of professional experience. I finished college in 2021 at IIIT Kancheepuram, in Chennai. The city that gave me one of my early memories — seeing the beach for the first time. Small thing, but it's stuck with me since. 
 
 ### What I do
 
