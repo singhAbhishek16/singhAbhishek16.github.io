@@ -28,5 +28,5 @@ AWS RDS. Led this migration in a scheduled maintenance window with zero downtime
 * User-level control - User / Power User / Admin roles built into the app
 * Infrastructure-level control - IAM roles & policies designed with least privilege idea; noone sees data outside their authorization. 
 
-### what does this cost
+### What does this cost
 
