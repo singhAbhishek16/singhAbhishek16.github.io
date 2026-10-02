@@ -29,4 +29,5 @@ AWS RDS. Led this migration in a scheduled maintenance window with zero downtime
 * Infrastructure-level control - IAM roles & policies designed with least privilege idea; noone sees data outside their authorization. 
 
 ### What does this cost
+$25K - $30K per month.
 
