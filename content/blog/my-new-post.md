@@ -8,6 +8,7 @@ date = "2026-08-04T11:23:06+05:30"
 # description = "An optional description for SEO. If not provided, an automatically created summary will be used."
 
 tags = ["blogs","personal",]
+draft = true
 +++
 
 This is a page about »My New Post«.

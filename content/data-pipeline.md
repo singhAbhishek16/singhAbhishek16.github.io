@@ -68,3 +68,6 @@ risk — if something went wrong mid-patch, telemetry stopped flowing to the SIE
 It was redesigned to two active-active clusters, connected so either one can absorb the full dataflow while the other is down. 
 This solved two problems at once: routine patching stopped being a risk event — one cluster gets safely patched while the other carries traffic,
 then flip — and an unplanned node failure on one cluster no longer means a gap in detection coverage.
+
+#### How much did the application cost
+Approximately $45K/month
