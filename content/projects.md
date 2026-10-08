@@ -25,11 +25,12 @@ menu = "main"
 My motivation behind this project is to manage my spending behaviour - automatically & securely.  Automatically, to strip out
 tedious work of tracking expenses manually every month. Securely, because I do not feel safe sharing my spending behaviour to any other
 application, company or AI. I have built this for my family & friends to help them take control over their hard-earned money. Here is
-how this works: [————→](https://abhishekprojects.com/)
+link to [application](https://abhishekprojects.com/analyse-my-expense/connector/) and its 
+[documentation](https://abhishekprojects.com/analyse-my-expense/docs/)
 
 ### To manage ~~time~~ attention
 
 I am building this project to help me track where my attention goes. The foundational idea is around pomodoro technique to manage focus.
 Number of hours in a day is limited, & so does one's capacity of focused sessions. I have attempted (and failed!) everytime I tried to manage
-time. So, I am taking my shot on attention, something I can bring under my control with practice. Long way to go here! Here is summary of
+time. So, I am taking my shot on attention, something I shall be able to bring under my control with practice. Long way to go here! Here is summary of
 how this works: [————→](https://abhishek-singh.dev/attention)
