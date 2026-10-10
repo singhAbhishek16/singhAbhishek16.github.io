@@ -25,8 +25,8 @@ menu = "main"
 My motivation behind this project is to manage my spending behaviour - automatically & securely.  Automatically, to strip out
 tedious work of tracking expenses manually every month. Securely, because I do not feel safe sharing my spending behaviour to any other
 application, company or AI. I have built this for my family & friends to help them take control over their hard-earned money. Here is
-link to [application](https://abhishekprojects.com/analyse-my-expense/connector/) and its 
-[documentation](https://abhishekprojects.com/analyse-my-expense/docs/)
+link to [application —→](https://abhishekprojects.com/analyse-my-expense/connector/) and its 
+[documentation —→](https://abhishekprojects.com/analyse-my-expense/docs/)
 
 ### To manage ~~time~~ attention
 
