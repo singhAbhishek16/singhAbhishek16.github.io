@@ -7,7 +7,7 @@ date = "2026-10-02T20:18:11+05:30"
 # the main menu on top of the page
 #
 menu = "main"
-
+weight = 20
 #
 # description is optional
 #

@@ -1,5 +1,6 @@
 +++
 title = "Data Pipeline"
+weight = 30
 +++
 
 ### 150TB/Day Security Data Pipeline

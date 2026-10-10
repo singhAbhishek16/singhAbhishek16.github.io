@@ -1,6 +1,7 @@
 +++
 title = "Logsearch"
 date = "2026-09-14T15:44:51+05:30"
+weight = 40
 +++
 
 ### LogSearch over archived data 
