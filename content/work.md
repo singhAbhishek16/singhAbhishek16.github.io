@@ -1,6 +1,7 @@
 +++
 title = "Work"
 menu = "main"
+weight = 10
 +++
 
 #### At a glance
