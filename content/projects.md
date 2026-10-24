@@ -33,4 +33,4 @@ link to [application —→](https://abhishekprojects.com/analyse-my-expense/con
 I am building this project to help me track where my attention goes. The foundational idea is around pomodoro technique to manage focus.
 Number of hours in a day is limited, & so does one's capacity of focused sessions. I have attempted (and failed!) everytime I tried to manage
 time. So, I am taking my shot on attention, something I shall be able to bring under my control with practice. Long way to go! Here is 
-link to [application —→](https://abhishek-pomodoro.streamlit.app/) & summary of its working: [————→](https://abhishek-singh.dev/focus-tracker)
+link to [application —→](https://abhishek-pomodoro.streamlit.app/) & summary of its [working —→](https://abhishek-singh.dev/focus-tracker)
